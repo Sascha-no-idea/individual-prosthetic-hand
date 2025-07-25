@@ -1,20 +1,68 @@
-# Material Selection
-This section outlines the material selection process for the prosthetic hand, focusing on the main components and their properties, as well as the material for the cord system. The goal is to ensure that the materials used are suitable for a child-friendly prosthesis, considering factors such as cost, availability, printability, and user safety.
+# 🧪 Material Selection
 
-## Prosthesis Body
-The goal is to use materials for FDM 3D printing that are widely available, cost-effective, and suitable for a child-friendly prosthesis, i.e. biocompatible and non-toxic, as well as resistant to disinfectants. They must be able to be printed on common FDM printers without a heated chamber, and should not require support structures for the main components. Furthermore, the materials should be durable enough to withstand daily use by a child, i.e. offer great impact resistance.
+This section outlines the material selection process for the prosthetic hand, focusing on both the printed structural components and the cord system. Our goal was to ensure all materials used are suitable for a child-friendly prosthesis — considering **cost**, **availability**, **printability**, **durability**, and above all, **user safety**.
 
-Here are some of the materials we considered for the body of the prosthesis:
-![Material Selection Chart](./images/material-selection.svg)
+---
 
-As you can see, PLA/PLA+, and PETG fulfill the requirements best, while engineering-grade materials like Polycarbonate and Nylon, or even ABS, fail in such regards as printability and cost effectiveness. However, PLA is not very heat resistant (unless it's a special HT variant), and is thus not suitable in every climate (think of a car left in the sun). PETG is more heat resistant, and also more flexible, which is why we chose it for the main body of the prosthesis. TPU is used for the joints, as it is very flexible and can handle numerous bending cycles without breaking.
+## 🖨️ Prosthesis Body
 
-An upcoming and very promising material is PCTG, as it combines many of the great advantages of PETG and offers even better impact resistance and chemical resistance. In autombile applications it is even used to replace hard TPEs, so it might be suitable for joints as well and could does allow print-in-place joints. Currently, it is not as widely available as PETG, and also somewhat more expensive, but it is worth keeping an eye on for future iterations of the prosthesis.
+The base components of the prosthesis are produced via **FDM 3D printing**. Suitable materials must be:
 
-## Cord System
-The cord system is a critical component of the prosthesis, as it transmits the force from the wrist flexion to the fingers. The material must be strong, low-friction, and durable with a high abrasion resistance.
+- Non-toxic and skin-safe (biocompatible)
+- Printable on standard consumer printers (no heated chamber)
+- Mechanically durable and impact-resistant
+- Resistant to cleaning agents and moderate heat
+- Cost-effective and easily sourced (available in maker spaces)
 
-Here you can see an overview of materials we considered:
-![Material Selection Chart for Cord System](./images/cord-material-selection.svg)
+We compared several common 3D printing materials:
 
-e-NABLE recommends using braided fishing line, but we found that Dyneema® cords, aka *Ultra-High-Molecular-Weight Polytethylene (UHMwPE)*, are a better alternative, as they have the highest strength, the lowest friction coefficient and also only a 3% stretch before breaking. This means that they do not lose much force when the wrist is flexed, and they also do not stretch over time, which would require constant re-tensioning. Cost-wise, Dyneema® cords are on par with polyethyene fishing lines, and they are widely available in various diameters. We used 4 mm Dyneema® cords for the final prototype, which are strong enough to withstand the forces applied during use. If Dyneema® is not available, we recommend using braided fishing line with a diameter of 0.3-0.5 mm, as it has similar properties.
+![Material Selection Chart](./images/material-selection.svg)  
+*Figure: Extract from project presentation slide (July 2025)*
+
+### 🔍 Summary of Key Findings
+
+- **PLA / PLA+**: Very easy to print and affordable, but insufficient temperature resistance. Risk of deformation in hot environments (e.g. car interiors).
+- **PETG**: Excellent compromise — better temperature resistance and impact toughness than PLA. Widely available, inexpensive, and easy to print. Chosen as the **main body material**.
+- **TPU**: Used selectively for **flexible joints**, due to high elasticity and fatigue resistance.
+- **PCTG** *(emerging)*: Similar to PETG, but with improved impact strength and chemical resistance. Promising candidate for future iterations — could enable printed-in-place joints — but still slightly more expensive and less common.
+
+---
+
+## 🧵 Cord System
+
+The cord system is a critical mechanical component: it transmits motion from the wrist to the fingers. Material selection here directly affects **grip strength**, **responsiveness**, and **long-term reliability**.
+
+![Cord Material Selection Chart](./images/cord-material-selection.svg)  
+*Figure: Extract from project presentation slide (July 2025)*
+
+### 🔍 Summary of Key Findings
+
+- **Nylon cords**: Too elastic — leads to energy loss and reduced grip strength.
+- **Kevlar**: Strong, but prone to abrasion damage when routed through plastic guides.
+- **Braided fishing line (PE)**: Commonly used in e-NABLE designs. Affordable and widely available, but variable in quality.
+- **Dyneema® (UHMwPE)**: Exceptional strength-to-weight ratio, low friction, and almost no stretch (~3%). Extremely abrasion-resistant and ideal for compact tendon paths.  
+  → Chosen as our **preferred material** (used: 0.4 mm diameter).
+
+If Dyneema® is not available, we recommend using a **braided polyethylene fishing line** with a diameter of **0.3–0.5 mm** as a fallback.
+
+---
+
+## 📌 Summary of Material Choices
+
+| Component            | Material | Reason                                             |
+|---------------------|----------|----------------------------------------------------|
+| Main body           | PETG     | Strong, heat-resistant, widely available           |
+| Joints              | TPU      | High elasticity, durable under repeated bending    |
+| Tendon cords        | Dyneema® | Minimal stretch, high durability, low friction     |
+
+---
+
+## 📎 References
+
+- Internal presentation slide (July 2025): *Material Comparison*
+- [e-NABLE community](https://enablingthefuture.org/) – Open-source prosthetic models  
+- [Dyneema® product data](https://www.dsm.com/dyneema) – DSM Engineering Materials  
+- Mat Bowell, [Kinetic Hand STL](https://www.thingiverse.com/thing:4618922)  
+- Steve Wood, [Flexy-Hand STL](https://www.thingiverse.com/thing:380665)
+
+---

@@ -1,0 +1,2 @@
+# Optimisation
+This directory contains the optimisation process for the individual prosthetic hand project. We put a lot of effort into improving the design, materials, and functionality of the prosthesis and split the optimisation process into several subfolders, each focusing on a specific aspect of the prosthesis.
