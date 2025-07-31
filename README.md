@@ -1,6 +1,6 @@
 # Open-Source Pediatric Hand Prosthesis (v4)
 
-This repository documents the ongoing development of a lightweight, low-cost, and child-friendly 3D-printed hand prosthesis for Antonio, a 9-year-old boy. The project started as part of a mechanical engineering course at TU Berlin and is actively being developed further.
+This repository documents the ongoing development of a lightweight, low-cost, and child-friendly 3D-printed hand prosthesis for a 9-year-old. The project started as part of a mechanical engineering course at TU Berlin and is actively being developed further.
 
 ---
 
