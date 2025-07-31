@@ -36,7 +36,7 @@ The Kinetic Hand assembly guide suggests two main grip-enhancing approaches:
 
 ---
 
-## 🧪 Our Experiments & Alternatives
+## Our Experiments & Alternatives
 
 We tested several cost-effective and accessible alternatives, aiming for low manual effort, minimal cost, and wide availability.
 
@@ -104,7 +104,7 @@ This technique will likely be included in our next version (v5).
 
 ---
 
-## 🏁 Summary of Tested Grip Solutions
+## Summary of Tested Grip Solutions
 
 | Method                    | Grip Quality | Cost  | Reusability | Required Tools        | Status       |
 |---------------------------|--------------|-------|-------------|------------------------|--------------|
@@ -124,7 +124,7 @@ This technique will likely be included in our next version (v5).
 
 ---
 
-## 🧠 Learnings & Next Steps
+## Learnings & Next Steps
 
 - **Grip surface = critical** to daily usability, especially for small objects
 - The **hot glue technique** is our most promising low-cost approach

@@ -1,16 +1,16 @@
-# 🔗 Joint Configuration
+# Joint Configuration
 
 This section documents our evaluation of joint types used in the prosthetic fingers and palm. Finger joint design is critical to achieving a balance between stability, flexibility, durability, and ease of assembly.
 
 We compared three joint types:
 
-- ✅ **Flexible printed hinges (default TPU design)**  
-- 🧪 **Flexible joints with shrink tubing**  
-- 🧩 **Standard mechanical (pinned) joints**
+- **Flexible printed hinges (default TPU design)**  
+- **Flexible joints with shrink tubing**  
+- **Standard mechanical (pinned) joints**
 
 ---
 
-## 📸 Overview of Joint Types
+## Overview of Joint Types
 
 ![Joint Types Comparison](./images/joint-configuration.svg)
 *Figure: Extract from project presentation slide (July 2025)*
@@ -19,7 +19,7 @@ We compared three joint types:
 
 ---
 
-## 💬 Why We Didn't Use Shrink Tubing (Yet)
+## Why We Didn't Use Shrink Tubing (Yet)
 
 Although the shrink-tube joint is promising — especially due to the clean look and quick assembly — we encountered **several material challenges**:
 
@@ -54,7 +54,7 @@ For our current build (v4), we are using the **default flexible TPU joints** pro
 
 ---
 
-## 🧰 Print Settings for TPU Joints
+## Print Settings for TPU Joints
 
 | Parameter         | Value / Recommendation         |
 |-------------------|--------------------------------|
@@ -66,7 +66,7 @@ For our current build (v4), we are using the **default flexible TPU joints** pro
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 
 We plan to revisit the shrink tube approach, given that our new material has arrived. Our goal is to evaluate:
 
@@ -78,7 +78,7 @@ Furthermore, we will run more tests with **PCTG** as a potential joint material,
 
 ---
 
-## 📎 References
+## References
 
 - [Kinetic Hand on Thingiverse](https://www.thingiverse.com/thing:4618922) — original joint design
 - Internal presentation slide (July 2025): *Comparison of joint types*
