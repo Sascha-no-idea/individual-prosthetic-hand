@@ -35,7 +35,7 @@ Although the shrink-tube joint is promising — especially due to the clean look
 For our current build (v4), we are using the **default flexible TPU joints** provided in the Kinetic Hand design. We optimized the **print settings** for these joints (infill, wall count, material choice) to ensure:
 
 - Smooth opening motion after gripping
-- Adequate flexibility for Antonio’s strength
+- Adequate flexibility for kid’s strength
 - Durability over extended use
 
 ---

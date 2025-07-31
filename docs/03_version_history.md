@@ -4,7 +4,7 @@ This document tracks the development milestones of the prosthetic design.
 
 ---
 
-## 🔹 v4 (Current Version) – Final Prototype for Antonio  
+## 🔹 v4 (Current Version) – Final Prototype for
 **Date:** July 2025  
 **Status:** Functional and tested  
 **Key Features:**
