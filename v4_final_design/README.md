@@ -85,7 +85,7 @@ Replace the default Kinetic Hand tensioners with our friction-clamp version. Ins
 3. Tighten screw to secure cord in place
 4. To adjust tension: slightly loosen and reposition
 
-See details in [`../optimization/`](../optimization/04_tensor-system/)
+See details in [`../optimisation/`](../optimization/04_tensor-system/)
 
 ---
 
