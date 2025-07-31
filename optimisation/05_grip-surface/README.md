@@ -64,7 +64,7 @@ We tested several cost-effective and accessible alternatives, aiming for low man
 
 ### 🟢 3. Thick Latex Pads (Upcycled Material)
 
-- **Method**: Cut grip pads from old latex leggings and glue them onto fingers and palm
+- **Method**: Cut grip pads from old latex leggings and glue them onto fingers and screw them onto the palm
 - **Pros**: Very effective grip; comfortable; cost-efficient if sourced
 - **Cons**: Manual cutting/gluing effort; sourcing may be inconsistent
 
