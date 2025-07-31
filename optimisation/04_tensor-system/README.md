@@ -53,7 +53,7 @@ The cord is routed around the screw shaft and sandwiched between the two halves.
   <img src="./images/new_tensioner_photo.png" alt="New Tensioner Assembly" height="185">
 </div>
 
-*Figure 1: Isometric view of the new custom tensioner design.*
+*Figure 1: Isometric view of the new custom tensioner design.*\
 *Figure 2: Image of the assembled new custom tensioner design.*
 
 ---
