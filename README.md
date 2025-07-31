@@ -2,6 +2,9 @@
 
 This repository documents the ongoing development of a lightweight, low-cost, and child-friendly 3D-printed hand prosthesis for a 9-year-old. The project started as part of a mechanical engineering course at TU Berlin and is actively being developed further.
 
+![Prosthetic Hand](./images/prosthetic_v4.png)\
+*Figure: Final design of the prosthetic hand (v4)*
+
 ---
 
 ## Project Background
