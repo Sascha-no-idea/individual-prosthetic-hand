@@ -4,13 +4,13 @@ This repository documents the ongoing development of a lightweight, low-cost, an
 
 ---
 
-## 💡 Project Background
+## Project Background
 
 The prosthesis is designed to be operated via wrist flexion and provide basic gripping functionality to support everyday activities. It is inspired by existing open-source prosthetic designs, especially from the [e-NABLE community](https://enablingthefuture.org/), and is built using accessible materials and FDM 3D printing.
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - **Individually adaptable** to user anatomy
 - **Inexpensive** to produce (low-cost and standard materials)
@@ -22,7 +22,7 @@ The prosthesis is designed to be operated via wrist flexion and provide basic gr
 
 ---
 
-## 🔧 Current Design Version: v4
+## Current Design Version: v4
 
 The fourth generation (`v4`) of our design includes:
 
@@ -52,19 +52,18 @@ Detailed discussions and test results can be found under [`/optimization`](./opt
 
 ---
 
-## 📁 Repo Structure
+## Repo Structure
 
 | Folder | Description |
 |--------|-------------|
 | `docs/` | Documentation and project presentation (PDF) |
 | `v4_final_design/` | All current STL files and build instructions |
-| `optimization/` | Subfolders for each tested feature/improvement |
+| `optimisation/` | Subfolders for each tested feature/improvement |
 | `resources/` | Source models from e-NABLE, literature references |
-| `tools/` | CAD/parametric helper files and utilities |
 
 ---
 
-## 🤝 Credits & Acknowledgements
+## Credits & Acknowledgements
 
 We gratefully acknowledge the open-source foundation by:
 
@@ -80,15 +79,15 @@ as part of the course **"3D-Druck in der Mechanik"** at TU Berlin, supervised by
 
 ---
 
-## 🛠️ Status
+## Status
 
 🟢 **v4 complete and functional**  
-🛠️ Further enhancements (grip elements, heat shrink tube, print-in-place design) in development.
-🤝 We're not in yet in contact with e-NABLE, but we plan to share our findings with them directly.
+ - Further enhancements (grip elements, heat shrink tube, print-in-place design) in development.
+- We're not in yet in contact with e-NABLE, but we plan to share our findings with them directly.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions, feedback or collaboration proposals, feel free to open an issue or contact us directly.
 
