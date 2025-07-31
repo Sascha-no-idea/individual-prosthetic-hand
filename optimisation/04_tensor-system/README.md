@@ -48,7 +48,7 @@ The custom tensioner consists of:
 
 The cord is routed around the screw shaft and sandwiched between the two halves. As the screw is tightened, friction secures the cord firmly in position. To adjust, the screw is loosened slightly, the cord is pulled or released, and the screw is re-tightened.
 
-![New Tensioner CAD](./images/new_tensioner_isometric_view.png) ![New Tensioner Assembly](./images/new_tensioner_photo.png){: width="300" }
+![New Tensioner CAD](./images/new_tensioner_isometric_view.png) ![New Tensioner Assembly](./images/new_tensioner_photo.png | width=300)
 
 *Figure: Isometric view of the new custom tensioner design.*
 
