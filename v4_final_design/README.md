@@ -12,7 +12,7 @@ The full set of STL files for the Kinetic Hand can be downloaded from:
 
 🔗 [Kinetic Hand on Thingiverse](https://www.thingiverse.com/thing:4618922)
 
-👉 These files include all standard parts such as the palm, fingers, hinges, gauntlet, and wrist components.
+These files include all standard parts such as the palm, fingers, hinges, gauntlet, and wrist components.
 
 We recommend downloading the latest official ZIP from Thingiverse and **replacing only the following parts with ours**.
 
@@ -20,7 +20,7 @@ We recommend downloading the latest official ZIP from Thingiverse and **replacin
 
 ## Custom Parts (included in this folder)
 
-Located under `stl/custom_parts/`:
+Located under `stl/`:
 
 | File | Description |
 |------|-------------|
@@ -74,7 +74,7 @@ Full material rationale in [`../optimization/`](../optimization/02_material-sele
 > *Dyneema cord (0.4 mm): ~0.12 €/m used (~1.00 € total)*  
 > *Fasteners: ~1.00–2.00 € depending on source*
 
-✅ **Total material cost: under 10 €**
+**Total material cost: under 10 €**
 
 ## Tensioning System
 
