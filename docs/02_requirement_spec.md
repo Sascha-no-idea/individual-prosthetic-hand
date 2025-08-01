@@ -1,4 +1,4 @@
-# 📄 Requirement Specification – Pediatric Wrist-Actuated Hand Prosthesis
+# Requirement Specification – Pediatric Wrist-Actuated Hand Prosthesis
 
 ## 1. Project Purpose
 
