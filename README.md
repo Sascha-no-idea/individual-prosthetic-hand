@@ -39,7 +39,7 @@ See [`/v4_final_design`](./v4_final_design/) for all STL files, assembly notes, 
 
 ---
 
-## 🧪 Optimization Focus Areas
+## Optimization Focus Areas
 
 We evaluated and improved key components through iterative testing:
 
