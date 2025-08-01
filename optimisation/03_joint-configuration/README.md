@@ -44,7 +44,7 @@ Our current tests of this new joint type are very promising. Especially the PVC 
 
 ---
 
-## ✅ Current Decision
+## Current Decision
 
 For our current build (v4), we are using the **default flexible TPU joints** provided in the Kinetic Hand design. We optimized the **print settings** for these joints (infill, wall count, material choice) to ensure:
 
