@@ -1,4 +1,4 @@
-# Grip Surface Optimization
+# Grip Surface Optimisation
 
 This section documents our experiments with grip surface solutions to enhance the functionality of the prosthetic hand. Grip performance is critical for tasks like holding bottles, pens, or toys — especially for a child user.
 
