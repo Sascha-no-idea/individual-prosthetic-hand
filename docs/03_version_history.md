@@ -1,10 +1,10 @@
-# 📜 Version History – Pediatric Hand Prosthesis
+# Version History – Pediatric Hand Prosthesis
 
 This document tracks the development milestones of the prosthetic design.
 
 ---
 
-## 🔹 v4 (Current Version) – Final Prototype for
+## v4 (Current Version) – Final Prototype
 **Date:** July 2025  
 **Status:** Functional and tested  
 **Key Features:**
@@ -15,7 +15,7 @@ This document tracks the development milestones of the prosthetic design.
 
 ---
 
-## 🔹 v3 – Grip Optimization & Cable Routing  
+## v3 – Grip Optimization & Cable Routing  
 **Date:** June 2025  
 **Status:** Prototype  
 **Changes:**
@@ -26,7 +26,7 @@ This document tracks the development milestones of the prosthetic design.
 
 ---
 
-## 🔹 v2 – Fit & Geometry Adaptation  
+## v2 – Fit & Geometry Adaptation  
 **Date:** May 2025  
 **Status:** Working prototype  
 **Changes:**
@@ -37,7 +37,7 @@ This document tracks the development milestones of the prosthetic design.
 
 ---
 
-## 🔹 v1 – First Working Model (Flexy-Hand)  
+## v1 – First Working Model (Flexy-Hand)  
 **Date:** April 2025  
 **Status:** Proof of concept  
 **Changes:**
