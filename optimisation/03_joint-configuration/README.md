@@ -58,11 +58,13 @@ For our current build (v4), we are using the **default flexible TPU joints** pro
 
 | Parameter         | Value / Recommendation         |
 |-------------------|--------------------------------|
-| Layer height      | tbd                            |
-| Wall/perimeter    | tbd                            |
-| Infill            | tbd                            |
-| Print speed       | tbd                            |
-| Material used     | TPU (Shore A tbd)              |
+| Layer height      | 0.2                            |
+| Wall/perimeter    | 3                              |
+| Infill            | 30 %                           |
+| Print speed       | 30 mm/s                        |
+| Material used     | TPU (Shore A 90)               |
+
+Please note that the actual print settings vary and depend on your specific TPU brand and printer configuration. The goal is to tune the strength of the joints so that the hand will reopen completely with no unnecessary increase in required closing force.
 
 ---
 
