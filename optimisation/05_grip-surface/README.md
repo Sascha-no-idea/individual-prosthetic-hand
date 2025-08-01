@@ -31,7 +31,7 @@ The Kinetic Hand assembly guide suggests two main grip-enhancing approaches:
 - **Pros**: Fully integrated into the model, good grip
 - **Cons**: Very hard to print, not standard on most printers
 
-![Ninjaflex Grip Example](./images/ninjaflex_inserts.png)
+![Ninjaflex Grip Example](./images/Ninjaflex_inserts.png)
 *Figure: Example of Ninjaflex grip pads (Image Source: Kinetic Hand Assembly Manual, Rev. 9/10/2020).*
 
 ---
