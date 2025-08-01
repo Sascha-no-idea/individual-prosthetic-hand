@@ -83,8 +83,7 @@ The cord is routed around the screw shaft and sandwiched between the two halves.
 
 ## Files & Resources
 
-- [`tensioner_custom_v1.step`](./tensioner_custom_v1.step) – Full CAD model
-- [`tensioner_custom_v1.stl`](./tensioner_custom_v1.stl) – Ready to print
+- [`tensioner_custom_v1.stl`](../v4_final_version/stl/Tensor_new.stl)
 
 ---
 
